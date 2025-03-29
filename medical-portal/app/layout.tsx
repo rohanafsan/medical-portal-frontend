@@ -24,6 +24,7 @@ export default function RootLayout({
           <nav className="nav-links">
             <Link href="/refill">Refill</Link>
             <Link href="/transfer">Transfer</Link>
+            <Link href="/login">Login</Link>
           </nav>
         </header>
         <main className="container flex flex-col justify-center items-center min-h-screen py-10">

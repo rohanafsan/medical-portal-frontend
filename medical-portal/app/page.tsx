@@ -22,6 +22,12 @@ export default function Home() {
         >
           Transfer Prescription
         </Link>
+        <Link
+          href="/signup"
+          className="bg-green-600 text-white px-8 py-4 rounded-lg text-lg shadow-lg hover:bg-blue-700 transition"
+        >
+          Sign Up
+        </Link>
       </div>
     </div>
   );
